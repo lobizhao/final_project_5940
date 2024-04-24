@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25cc4690-5748-4202-84cb-38f586966014" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/GameMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GamePlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePlay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -47,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713917542097</updated>
-      <workItem from="1713917543629" duration="2000" />
+      <workItem from="1713917543629" duration="215000" />
     </task>
     <servers />
   </component>
